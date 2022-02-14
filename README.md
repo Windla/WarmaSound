@@ -35,3 +35,12 @@ https://www.bilibili.com/video/BV1n4411c7uG
 https://www.bilibili.com/video/BV13x411e7Cc
 
 https://www.bilibili.com/audio/au1905549
+
+
+
+
+
+
+
+## 你的Star是我更新的动力! 不要忘了去b站关注我(
+[![Stargazers over time](https://starchart.cc/Windla/WarmaSound.svg)](https://starchart.cc/Windla/WarmaSound)
