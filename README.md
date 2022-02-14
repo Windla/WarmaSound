@@ -19,7 +19,8 @@ Code - Download.ZIP
 解压放入自己的皮肤文件夹内(复制一个测试最好)
 建议手动删除对应的原有wav/ogg/mp3
 
-
+官方文档:
+https://osu.ppy.sh/wiki/zh-tw/Skinning/Sounds
 
 
 借物表:
