@@ -12,7 +12,7 @@ https://www.bilibili.com/video/BV1Mq4y187b5
 暂无(待定)
 
 点我下载:
-https://github.com/Windla/WarmaSound/archive/refs/heads/main.zip
+https://github.com/Windla/WarmaSound/releases
 
 如何使用:(暂不推荐该方法)
 Code - Download.ZIP
