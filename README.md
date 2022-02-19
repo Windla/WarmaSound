@@ -14,10 +14,9 @@ https://www.bilibili.com/video/BV1Mq4y187b5
 点我下载:
 https://github.com/Windla/WarmaSound/releases
 
-如何使用:(暂不推荐该方法)
-Code - Download.ZIP
-解压放入自己的皮肤文件夹内(复制一个测试最好)
-建议手动删除对应的原有wav/ogg/mp3
+如何使用:
+看文件里面的README!!!
+打开osu!文件夹 - Skins - WarmaSound - README.txt
 
 官方文档:
 https://osu.ppy.sh/wiki/zh-tw/Skinning/Sounds
